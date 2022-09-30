@@ -1,0 +1,207 @@
+body {
+
+  background-image: url(https://abrakadabra.fun/uploads/posts/2021-12/1639922134_55-abrakadabra-fun-p-fon-dlya-pogodi-58.jpg);
+}
+/* -font-family: 'Poppins', sans-serif;  --*/
+ main {
+ 
+ background: linear-gradient(#1438ef, yellow); 
+  max-width: 1000px;
+  margin: 80px auto;
+  padding:  30px  10px  0px 100px;  
+  margin-bottom: 0px;
+  border: 0px solid rgb(98, 207, 229);
+  border-radius:  260px; 
+  font-size: 22px;
+  color: rgb(26, 2, 62);
+  font-style: italic;
+  opacity: 0.8;
+}
+
+form {
+  max-width: 50%;
+  margin-left: 40px;
+   margin: 10px 170px;   
+}
+ 
+
+h1 {   
+  padding: 10px;
+  margin: 20px; 
+ } 
+
+
+#city {
+font-size: 84px;
+font-weight: 700; 
+ color: yellow;
+}
+  
+ 
+ 
+h1:first-letter{  
+text-transform: capitalize;
+} 
+#description:first-letter{  
+text-transform: capitalize;
+} 
+ 
+ .temperature {
+    position: relative;
+  top:  30px;
+  left:  0px;
+}
+
+ #temperature { 
+  font-weight: 600;
+  font-size: 94px; 
+  transform:  translate(24px, 0px);
+}
+
+.units {
+  font-weight: 600;
+  font-size: 24px;
+ color: rgb(26, 2, 62);
+ }
+
+.weather-description {
+  font-weight: 600;
+  font-size: 24px; 
+}
+ 
+
+ul {
+  list-style: none;
+}
+ 
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+ 
+}
+
+[href^="#"] {
+  text-decoration:  none;    
+}
+ 
+
+[href*=".git"] {
+  text-decoration:  none; 
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
+}
+
+
+
+
+.weather-forecast-temperatures {
+  font-size: 23px;
+  }
+
+ 
+
+.sourse { 
+  font-size: 19px; 
+  margin: 90px;  
+}
+/*-
+ conteiner { 
+
+margin:  0px  auto;  
+} 
+ body {
+  font-family: arial, sans-serif;
+}
+
+h1 {
+  color: #878787;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  color: rgb(135, 135, 135);
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+}
+
+li:first-letter {
+  text-transform: capitalize;
+}
+
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.weather-app {
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}
+
+.overview {
+  margin-bottom: 20px;
+}
+
+.weather-temperature img {
+  margin-right: 5px;
+  height: 64px;
+  width: 64px;
+}
+
+.weather-temperature strong {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 400;
+}
+
+.weather-temperature .units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
+
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
+}
+
+
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.5;
+}
+
+.weather-forecast-temperatures {
+  font-size: 13px;
+}-----*>
+   
+
+
